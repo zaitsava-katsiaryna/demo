@@ -9,3 +9,4 @@ fdsafo
 fsdklafj
 Something
 >>>>>>> very-bad
+This is a test string
